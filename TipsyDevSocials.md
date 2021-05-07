@@ -1,6 +1,6 @@
 # Social
 
-## Youtube | <a href="https://www.youtube.com/channel/UCZ1mg_1a4I3D2ePD1B-zhtw" target="_blank">TipsyDev YT</a> 
+## Youtube | <a href="https://www.youtube.com/channel/UCZ1mg_1a4I3D2ePD1B-zhtw" target="_blank">TipsyDev YT</a>
 * Coding
 * Gameplay
 * Livestreams
