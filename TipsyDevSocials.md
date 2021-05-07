@@ -5,3 +5,9 @@ Twitch  | <a href="https://www.twitch.tv/tipsydev" target="_blank">TipsyDev Twit
 GitHub  | <a href="https://github.com/TipsyDev" target="_blank">TipsyDev GitHub</a>
 
 TD's social links
+
+<style>
+  a:hover {
+  color:green;
+  }
+  </style>
